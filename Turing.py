@@ -1,7 +1,7 @@
 x , s , y = [1,6,3] , [2,2,5] , [1 ,2 ,3, 4,5,6,7,8,9]
 
 y.sort() 
-
+##
 def max_left(dist):
     left ,right = 0 , len(y)-1
     while left <=  right:
