@@ -31,7 +31,7 @@ def findleft(target,y):
 
             right =mid -1
     return left
-
+#
 def findright(target,y) :
     left=0
     right=len(y)-1
